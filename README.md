@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanosuke298&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanosuke298&theme=buefy&layout=compact" />
 </a>
 
 <br/>

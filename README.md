@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **RonnieFEC/RonnieFEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 👋 &nbsp; Hola! Ronnie Escobar.</h2>
+<h2> 👋 &nbsp; ### Hola! Ronnie Escobar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
@@ -72,8 +71,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanosuke298&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanosuke298&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=merko&layout=compact" />
 </a>
 
 <br/>

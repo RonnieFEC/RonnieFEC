@@ -1,3 +1,4 @@
+
 <!--
 **RonnieFEC/RonnieFEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -72,17 +73,9 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=coder&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=slateorange&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=slateorange&layout=compact" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=ayu-mirage&show_icons=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=tokyonight&show_icons=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=neon-tokyo&show_icons=true" />
-
-  
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=synthwave-cyberpunk&layout=compact" />
 </a>
 
 <br/>

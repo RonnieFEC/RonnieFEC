@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
-- ❤️ &nbsp; Me apasiona el brindar soluciones a desafíos de negocios o procesos usando de forma óptima las técnicas de análisis de los datos.
+- ❤️ &nbsp; Me apasiona el brindar soluciones a desafíos de negocios o procesos, usando eficientemente herramientas de Data Science.
 - 🎓 &nbsp; Actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
 - 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Análisis de datos y Bussines Inteligence.
 - 🌱 &nbsp; Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
@@ -79,9 +79,9 @@ Here are some ideas to get you started:
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=tokyonight&show_icons=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=vuedark&show_icons=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=nightowl&show_icons=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=gruvbox&layout=compact" />
 </a>

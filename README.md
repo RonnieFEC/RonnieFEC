@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 👋 &nbsp; ### Hola! Ronnie Escobar.</h2>
+<h2> 👋 &nbsp; Hola! Soy Ronnie Escobar.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
-- ❤️ &nbsp; Me apasiona la idea de estar creando modelos matemáticos para resolver alguna tarea del mundo real.
+- ❤️ &nbsp; Me apasiona el brindar soluciones a desafíos de negocios o procesos usando de forma óptima las técnicas de análisis de los datos.
 - 🎓 &nbsp; Actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
-- 💼 &nbsp; Estoy abierta a oportunidades laborales relacionadas con Machine Learning y Análisis de datos.
+- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Análisis de datos y Bussines Inteligence.
 - 🌱 &nbsp; Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
+- 🏭 &nbsp; Cuento con un background previo en gestión de procesos y calidad en plantas industriales del sector consumo masivo (B2B).
+- 🎯 &nbsp; Profesional orientado a objetivos, integridad y proactividad.
 
 <h3> 🛠 &nbsp;Habilidades técnicas</h3>
 

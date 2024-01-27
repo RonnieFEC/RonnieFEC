@@ -73,17 +73,17 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=material-palenigh&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=gruvbox&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=ayu-mirage&show_icons=true" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=tokyonight&show_icons=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=vuedark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=neon-tokyo&show_icons=true" />
+
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=nightowl&show_icons=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=gruvbox&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=synthwave-cyberpunk&layout=compact" />
 </a>
 
 <br/>

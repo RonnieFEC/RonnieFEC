@@ -84,5 +84,5 @@ Here are some ideas to get you started:
 <p align="center">
 <h3> 🤝🏻 &nbsp;Me encuentro en </h3>
 <a href="https://www.linkedin.com/in/ronnie-escobar-ccanto7461/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/carla.pezzone"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
+<a href="https://public.tableau.com/app/profile/ronnie.f.lix.escobar.ccanto"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
 </p>

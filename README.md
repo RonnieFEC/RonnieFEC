@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=slateorange&show_icons=true" />
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=slateorange&layout=compact" />
 
 
 </a>

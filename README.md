@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
-- ❤️ &nbsp; Me apasiona el brindar soluciones a desafíos de negocios o procesos, usando eficientemente herramientas de Data Science.
-- 🎓 &nbsp; Actualmente estoy estudiando en Soy Henry la carrera de Ciencia de Datos.
-- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Análisis de datos y Bussines Inteligence.
+- ❤️ &nbsp; Me apasiona el brindar soluciones a desafíos de negocios o procesos, usando eficientemente las herramientas del Data Science.
+- 🎓 &nbsp; Actualmente estoy estudiando en SoyHenry la carrera de Ciencia de Datos.
+- 💼 &nbsp; Estoy abierto a oportunidades laborales relacionadas con Machine Learning, Análisis de datos y Business Inteligence.
 - 🌱 &nbsp; Me encuentro continuamente estudiando y aprendiendo nuevas tecnologías.
 - 🏭 &nbsp; Cuento con un background previo en gestión de procesos y calidad en plantas industriales del sector consumo masivo (B2B).
 - 🎯 &nbsp; Profesional orientado a objetivos, integridad y proactividad.
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="[https://github.com/AVS1508](https://github.com/RonnieFEC)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RonnieFEC&theme=slateorange&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=slateorange&layout=compact" />
-
+  
 
 </a>
 <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnieFEC&theme=slateorange&layout=compact" /> 
